@@ -1,0 +1,6 @@
+{
+  "name": "RTX FURY METHOD — PERSONAL EDITION",
+  "description": "Personal edition of the RTX Fury Method TikTok video optimization engine. Free unlimited 4K 120 FPS optimization, Topaz & Handbrake presets, and video enhancement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
